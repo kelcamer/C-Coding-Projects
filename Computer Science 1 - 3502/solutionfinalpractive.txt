@@ -1,0 +1,68 @@
+w1 at 2011, r at 2051, h at 2081
+   a
+   b
+   c
+   \0
+
+a at 3001    b at 4001  2051 w   2081 a     
+5             80             h        b
+2051         2081            i        c 
+3001         3001            c        \0
+                             h                     DUNGEON   func1
+                             w                     =======
+                             o                         
+                             r                        a at 7001
+                             d                        80      
+                             g                    --  2081 
+                             o                    |   3001 
+                             o                    |
+                             d                    |
+                             \0                 becomes 2084,
+                                               (then after 42 is) 2081,         
+
+
+
+output
+======
+
+89 is 5 abc whichwordgood
+80 is 5 abc abc
+a\n
+2 is abc
+3 is ?? 
+4 is ?? Phatever
+5 is Phatever
+6 is ?? wordseven
+7 is whichwordgood
+
+
+
+
+At line 44, re-copy work down here:
+
+
+
+w1 at 2011, r at 2051, h at 2081
+   a
+   b
+   c
+   \0
+                                                w P w
+a at 3001    b at 4001  2051 w w     2081 a  w  h   o
+5             80             h o          b  h  a   r 
+2051         2081            i r          c  a  t   d
+3001         3001            c d          \0 t  e   s
+  |                          h s             e  v   e       DUNGEON   func1
+  |                          w i             v  e   v       =======
+(line 56 is) 7001            o x             e  r   e      
+                             r \0            r  \0  n          a at 7001
+                             d               \0     \0         80      
+                             g                             --  2081 
+                             o                             |   3001 
+                             o                             |
+                             d                             |
+                             \0                          becomes 2084,
+                                                        (then after 42 is) 2081,
+         
+                                                        (after 48 is) 2080
+
