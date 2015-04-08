@@ -6,13 +6,6 @@ double final_x, final_y, final_z = 0;
 
     double inputx, inputy, inputz = 0.0;
     double mag = 0.0;
-void get_unit_vector(int x, int y, int z){
-    printf("Magnitude of the Vector: %lf\n\n", mag);
-         printf("X, Y, Z:%lf, %lf, %lf\n", inputx, inputy, inputz);
-    final_x = inputx / mag;
-    final_y = inputy / mag;    final_z = inputz / mag;
-    printf("Your unit vector is:\n<%lf, %lf, %lf>\n", final_x, final_y, final_z);
-};
 void get_mag(double x, double y, double z){
     double total = 0.0;
     inputx = x;
@@ -30,6 +23,13 @@ void get_mag(double x, double y, double z){
         get_unit_vector(x,y,z);
 
     //return 0;
+};
+void get_unit_vector(int x, int y, int z){
+    printf("Magnitude of the Vector: %lf\n\n", mag);
+         printf("X, Y, Z:%lf, %lf, %lf\n", inputx, inputy, inputz);
+    final_x = inputx / mag;
+    final_y = inputy / mag;    final_z = inputz / mag;
+    printf("Your unit vector is:\n<%lf, %lf, %lf>\n", final_x, final_y, final_z);
 };
 void check_unit_vector(double x, double y, double z){
 //if()
