@@ -1,0 +1,183 @@
+	 Produce:	Apple
+	    Type:	 Granny Smith
+	In stock:	 pound
+	   Price:	2.990000
+	Quantity:	100
+
+
+	 Produce:	Asparagus
+	    Type:	 
+	In stock:	 pound
+	   Price:	2.540000
+	Quantity:	23
+
+
+	 Produce:	Blueberries
+	    Type:	 
+	In stock:	 package
+	   Price:	3.990000
+	Quantity:	43
+
+
+	 Produce:	Broccoli
+	    Type:	 Florets
+	In stock:	 package
+	   Price:	3.450000
+	Quantity:	67
+
+
+	 Produce:	Cantaloupe
+	    Type:	 
+	In stock:	 each
+	   Price:	1.490000
+	Quantity:	53
+
+
+	 Produce:	Cauliflower
+	    Type:	 
+	In stock:	 each
+	   Price:	2.590000
+	Quantity:	26
+
+
+	 Produce:	Eggplant
+	    Type:	 Japanese
+	In stock:	 each
+	   Price:	1.590000
+	Quantity:	10
+
+
+	 Produce:	Grapes
+	    Type:	 Red Seedless
+	In stock:	 pound
+	   Price:	1.990000
+	Quantity:	8
+
+
+	 Produce:	Green Beans
+	    Type:	 Stringless
+	In stock:	 pound
+	   Price:	1.590000
+	Quantity:	80
+
+
+	 Produce:	Kiwi
+	    Type:	 
+	In stock:	 each
+	   Price:	0.990000
+	Quantity:	20
+
+
+	 Produce:	Lemon
+	    Type:	 
+	In stock:	 each
+	   Price:	0.290000
+	Quantity:	40
+
+
+	 Produce:	Lettuce
+	    Type:	 Iceberg
+	In stock:	 each
+	   Price:	1.190000
+	Quantity:	100
+
+
+	 Produce:	Lime
+	    Type:	 Persian
+	In stock:	 each
+	   Price:	0.100000
+	Quantity:	60
+
+
+	 Produce:	Mango
+	    Type:	 
+	In stock:	 each
+	   Price:	3.590000
+	Quantity:	44
+
+
+	 Produce:	Mushrooms
+	    Type:	 Shiitake
+	In stock:	 package
+	   Price:	4.990000
+	Quantity:	20
+
+
+	 Produce:	Okra
+	    Type:	 
+	In stock:	 package
+	   Price:	6.990000
+	Quantity:	12
+
+
+	 Produce:	Orange
+	    Type:	 Navel
+	In stock:	 pound
+	   Price:	1.990000
+	Quantity:	80
+
+
+	 Produce:	Peppers
+	    Type:	 Green
+	In stock:	 each
+	   Price:	0.590000
+	Quantity:	100
+
+
+	 Produce:	Peppers
+	    Type:	 Jalapeno
+	In stock:	 pound
+	   Price:	0.990000
+	Quantity:	7
+
+
+	 Produce:	Radishes
+	    Type:	 Red
+	In stock:	 package
+	   Price:	0.990000
+	Quantity:	25
+
+
+	 Produce:	Raspberries
+	    Type:	 Red
+	In stock:	 package
+	   Price:	3.990000
+	Quantity:	50
+
+
+	 Produce:	Spaghetti
+	    Type:	 Squash
+	In stock:	 each
+	   Price:	1.990000
+	Quantity:	18
+
+
+	 Produce:	Strawberries
+	    Type:	 
+	In stock:	 package
+	   Price:	4.990000
+	Quantity:	38
+
+
+	 Produce:	Tomatoes
+	    Type:	 Ugly Ripe
+	In stock:	 each
+	   Price:	0.990000
+	Quantity:	67
+
+
+	 Produce:	Yellow
+	    Type:	 Squash
+	In stock:	 pound
+	   Price:	1.790000
+	Quantity:	15
+
+
+	 Produce:	Zucchini
+	    Type:	 Squash
+	In stock:	 pound
+	   Price:	2.190000
+	Quantity:	45
+
+
+End of list.
